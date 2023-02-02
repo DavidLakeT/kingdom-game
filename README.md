@@ -13,7 +13,7 @@
  Utiliza el patrón Abstract Factory cuando tu código deba funcionar con varias familias de productos relacionados.
 
 * The system should be configured with one of the multiple families of elements.
-* * When you need consistency among elements.
+* When you need consistency among elements.
 * The family of related element objects is designed to be used together, and you need to enforce this constraint.
 * You want to decide which product to call from a family at runtime.
 * When you have a class with a group of factory methods that cloud its main responsibility.
