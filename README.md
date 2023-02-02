@@ -1,4 +1,4 @@
-### Kingdom Game
+# Kingdom Game
 
 ## Overview
 
